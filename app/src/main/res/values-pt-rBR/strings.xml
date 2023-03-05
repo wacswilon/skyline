@@ -20,8 +20,8 @@
     <string name="play">Jogar</string>
     <string name="searching_roms">Buscando por ROMs</string>
     <string name="invalid_file">Arquivo inválido </string>
-    <string name="missing_title_key">Arquivo title.keys faltando</string>
-    <string name="incomplete_prod_keys">Arquivo prod.keys incompleto</string>
+    <string name="missing_title_key">Chaves de Título faltando</string>
+    <string name="incomplete_prod_keys">Chaves de Produção incompletas</string>
     <!-- Settings - Content -->
     <string name="content">Conteúdo</string>
     <string name="open_data_directory">Ver Diretório Interno</string>
@@ -30,8 +30,8 @@
     <string name="search_location">Local de Busca</string>
     <!-- Settings - Keys -->
     <string name="keys">Chaves de Decriptação</string>
-    <string name="prod_keys">Arquivo prod.keys</string>
-    <string name="title_keys">Arquivo title.keys</string>
+    <string name="prod_keys">Chaves de Produção</string>
+    <string name="title_keys">Chaves de Título </string>
     <string name="import_keys_success">Chaves de Decriptação importadas com sucesso</string>
     <string name="import_keys_invalid_input_path">O caminho para as chaves fornecidas é inválido</string>
     <string name="import_keys_invalid_keys">As chaves que você tentou importar são inválidas</string>
@@ -74,7 +74,7 @@
     <string name="display">Exibição</string>
     <string name="perf_stats">Exibir Estatísticas de Desempenho</string>
     <string name="perf_stats_desc_off">Estastísticas de Desempenho não serão exibidas</string>
-    <string name="perf_stats_desc_on">Estatísticas de Desempenho sersão exibidas no canto superior esquerdo</string>
+    <string name="perf_stats_desc_on">Estatísticas de Desempenho serão exibidas no canto superior esquerdo</string>
     <string name="max_refresh_rate">Use a Taxa Máxima de Atualização da Tela</string>
     <string name="max_refresh_rate_enabled">Define a taxa de atualização da tela para a mais alta possível (vai quebrar a maioria dos jogos)</string>
     <string name="max_refresh_rate_disabled">Define a taxa de atualização da tela para 60Hz</string>
@@ -96,15 +96,15 @@
     <string name="force_triple_buffering">Forçar Buffer Triplo</string>
     <string name="triple_buffering_enabled">Utilize pelo menos três buffers em cadeia de troca (FPS mais altos, porém há mais atraso de entrada)</string>
     <string name="triple_buffering_disabled">Utilize pelo menos dois buffers em cadeia de troca (FPS mais baixos, mas há menos atraso de entrada)</string>
-    <string name="disable_frame_throttling">Desabilitar o Limitador de Quadros</string>
+    <string name="disable_frame_throttling">Desabilitar Limite de Quadros</string>
     <string name="disable_frame_throttling_enabled">O jogo pode rodar o mais rápido possível (somente para benchmarking) <b>Nota:</b>Um método alternativo é utilizado para medir o FPS com isso habilitado, os valores não devem ser comparados aos valores de FPS limitados</string>
-    <string name="disable_frame_throttling_disabled">Permitir que o jogo rode de acordo com a taxa de atualização da tela do seu dispositivo</string>
+    <string name="disable_frame_throttling_disabled">Permite que o jogo rode de acordo com a taxa de atualização da tela do seu dispositivo</string>
     <string name="executor_slot_count_scale">Escala de Contagem de Slots do Executor</string>
     <string name="executor_slot_count_scale_desc">Escala controlando o número máximo de execuções simultâneas da GPU (mais alto às vezes pode ter um desempenho melhor, mas usará mais RAM)</string>
     <string name="executor_flush_threshold">Limite de Descarga do Executor</string>
     <string name="executor_flush_threshold_desc">Controla a frequência com que o trabalho é descarregado para a GPU</string>
     <string name="use_direct_memory_import">Usar Importação Direta da Memória</string>
-    <string name="use_direct_memory_import_desc">Pode alterar o desempenho e estabilidade em alguns jogos\n<b>NOTA:</b>Esta opção funciona apenas em drivers proprietários Adreno</string>
+    <string name="use_direct_memory_import_desc">Pode alterar o desempenho e estabilidade em alguns jogos\n<b>NOTA:</b> Esta opção funciona apenas em drivers proprietários Adreno</string>
     <string name="force_max_gpu_clocks">Forçar Frequência Máxima da GPU</string>
     <string name="force_max_gpu_clocks_desc">Força a GPU a rodar na sua maior frequência possível (Pode causar calor e consumo de energia excessivos)</string>
     <string name="force_max_gpu_clocks_desc_unsupported">Seu disponível não suportar forçar a frequência máxima da GPU</string>
