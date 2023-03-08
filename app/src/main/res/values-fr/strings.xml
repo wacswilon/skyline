@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Common -->
-    <string name="search">Chercher</string>
+    <string name="search">Rechercher</string>
     <string name="error">Une erreur est survenue</string>
     <string name="copied_to_clipboard">Copié dans le presse-papier</string>
     <string name="emulator">Émulateur</string>
