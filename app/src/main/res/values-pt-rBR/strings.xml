@@ -111,8 +111,8 @@
     <string name="force_max_gpu_clocks">Forçar Frequência Máxima da GPU</string>
     <string name="force_max_gpu_clocks_desc">Força a GPU a rodar na sua maior frequência possível (Pode causar calor e consumo de energia excessivos)</string>
     <string name="force_max_gpu_clocks_desc_unsupported">Seu disponível não suportar forçar a frequência máxima da GPU</string>
-    <string name="free_guest_texture_memory">Liberar Memória de Textura do Hóspede</string>
-    <string name="free_guest_texture_memory_desc">Permite que os dados de textura do hóspede sejam liberados da memória quando desnecessários (Pode raramente causar quebras)</string>
+    <string name="free_guest_texture_memory">Liberar Memória de Texturas do Hóspede</string>
+    <string name="free_guest_texture_memory_desc">Permite que os dados de texturas do aplicativo/jogo emulado sejam liberados da memória quando desnecessários (Pode raramente causar quebras)</string>
     <string name="shader_cache">Desabilitar Cache de Shader</string>
     <string name="shader_cache_disabled">Shaders armazenados em cache não serão carregadas, resultará em engasgos</string>
     <string name="shader_cache_enabled">Shaders armazenados em cache serão carregadas, pode reduzir fortemente os engasgos</string>
