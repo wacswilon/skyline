@@ -111,7 +111,7 @@
     <string name="force_max_gpu_clocks">强制最大 GPU 时钟</string>
     <string name="force_max_gpu_clocks_desc">强制 GPU 以最大可能时钟速度运行（可能导致过热和耗电）</string>
     <string name="force_max_gpu_clocks_desc_unsupported">您的设备不支持强制最大 GPU 时钟</string>
-    <string name="free_guest_texture_memory">免费访客纹理内存</string>
+    <string name="free_guest_texture_memory">闲置访客纹理内存</string>
     <string name="free_guest_texture_memory_desc">允许访客纹理数据在不需要时从内存中释放（很少会导致崩溃）</string>
     <string name="shader_cache">禁用着色器缓存</string>
     <string name="shader_cache_disabled">缓存的着色器不会被加载，会导致卡顿</string>
