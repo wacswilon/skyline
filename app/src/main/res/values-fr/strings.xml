@@ -6,7 +6,7 @@
     <string name="emulator">Émulateur</string>
     <!-- Toolbar Main -->
     <string name="settings">Paramètres</string>
-    <string name="share_logs">Partager les logs</string>
+    <string name="share_logs">Partager le log</string>
     <string name="refresh">Rafraîchir</string>
     <!-- Toolbar - Share Logs -->
     <string name="log_share_prompt">Partager le fichier de log</string>
