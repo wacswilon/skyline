@@ -22,6 +22,9 @@
     <string name="invalid_file">File tidak valdi</string>
     <string name="missing_title_key">Title key belum dipasang</string>
     <string name="incomplete_prod_keys">Production keys belum dipasang</string>
+    <!-- Picture-In-Picture -->
+    <string name="pause">Pause</string>
+    <string name="mute">Bisu</string>
     <!-- Settings - Content -->
     <string name="content">Konten</string>
     <string name="open_data_directory">Lihat Direktori Internal</string>
@@ -108,6 +111,8 @@
     <string name="force_max_gpu_clocks">Paksa GPU Clocks secara Maksimum</string>
     <string name="force_max_gpu_clocks_desc">Memaksa GPU untuk bekerja pada kecepatan frequensi maksimumnya (Dapat menyebabkan panas dan penggunaan daya berlebih)</string>
     <string name="force_max_gpu_clocks_desc_unsupported">Perangkatmu tidak mendukung Paksa GPU secara maximum</string>
+    <string name="free_guest_texture_memory">Bersihkan Guest Texture Memory</string>
+    <string name="free_guest_texture_memory_desc">Izinkan guest texture data di bersihkan dari memory ketika tidak dibutuhkan (Terkadang dapat menyebabkan crash)</string>
     <string name="shader_cache">Matikan Shader Cache</string>
     <string name="shader_cache_disabled">Shader cache tidak akan digunakan, akan menyebabkan macet-macet</string>
     <string name="shader_cache_enabled">Shader Cache akan digunakan, dapat mengurangi macet-macet</string>
@@ -151,6 +156,8 @@
     <string name="osc_feedback">Aktifkan Getaran Sentuh</string>
     <string name="osc_feedback_description">Mengecualikan analog dan kontrol hardware</string>
     <string name="osc_edit">Atur Letak Kontrol Layar</string>
+    <string name="osc_text_color">Warna Teks</string>
+    <string name="osc_background_color">Warna Background</string>
     <string name="setup_guide">Pandu Pengaturan</string>
     <string name="setup_guide_description">Map setiap tombol dan analog secara berurutan</string>
     <string name="joystick">Analog</string>
@@ -248,4 +255,5 @@
     <!--suppress AndroidLintUnusedResources -->
     <string name="expand_button_title" tools:override="true">Luaskan</string>
     <string name="undo">Kembalikan</string>
+    <string name="per_game_settings_active_message">Setting per-game aktif</string>
 </resources>
