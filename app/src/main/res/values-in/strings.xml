@@ -2,7 +2,7 @@
     <!-- Common -->
     <string name="search">Cari</string>
     <string name="error">Terjadi kesalahan</string>
-    <string name="copied_to_clipboard">Disalin ke Papan Klip</string>
+    <string name="copied_to_clipboard">Disalin ke papan klip</string>
     <string name="emulator">Emulator</string>
     <!-- Toolbar Main -->
     <string name="settings">Pengaturan</string>
