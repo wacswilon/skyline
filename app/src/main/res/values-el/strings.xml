@@ -178,7 +178,7 @@
     <string name="supported">Υποστηρίζεται</string>
     <string name="not_supported">Δεν υποστηρίζεται</string>
     <string name="press_any_button">Πάτα οποιοδήποτε κουμπί στον χειριστή</string>
-    <string name="confirm_button_again">Επιβεβαίωση την επιλογή πατώντας ένα κουμπί πάλι</string>
+    <string name="confirm_button_again">Επιβεβαίωσε την επιλογή πατώντας ξανά ένα κουμπί</string>
     <string name="builtin">Ενσωματωμένο</string>
     <string name="builtin_vibrator">Ενσωματωμένος δονητής</string>
     <string name="reset">Επαναφορά</string>
