@@ -163,7 +163,7 @@
     <string name="joystick">Μοχλός</string>
     <string name="confirm">Επιβεβαίωση</string>
     <string name="cancel">Ακύρωση</string>
-    <string name="osc_recenter_sticks">Επικέντρωση μπαστουνιών με το άγγιγμα</string>
+    <string name="osc_recenter_sticks">Επικέντρωση μοχλός με το άγγιγμα</string>
     <string name="controller">Χειριστής</string>
     <string name="config_controller">Ρυθμίσεις χειριστή</string>
     <string name="controller_type">Τύπος χειριστή</string>
