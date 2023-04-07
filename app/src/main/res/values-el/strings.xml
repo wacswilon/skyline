@@ -190,7 +190,7 @@
     <string name="stick_button">Κουμπί μοχλού</string>
     <string name="next">Επόμενο</string>
     <string name="x_plus">Μοχλός X+ Άξονα (Δεξίς)</string>
-    <string name="y_plus">Μπαστούνι Y+ Αξονα (πάνω) </string>
+    <string name="y_plus">Μοχλός Y+ Αξονα (πάνω) </string>
     <string name="x_minus">Μπαστούνι X- Αξονα (αριστερό)</string>
     <string name="y_minus">Μπαστούνι Y- Άξονα (κάτω)</string>
     <string name="a_button">A</string>
