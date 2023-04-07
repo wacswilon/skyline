@@ -154,7 +154,7 @@
     <string name="osc_not_shown">Τα Στοιχεία ελέγχου επί της οθόνης δεν θα εμφανίζονται</string>
     <string name="osc_shown">Τα Στοιχεία ελέγχου επί της οθόνης θα εμφανίζονται</string>
     <string name="osc_feedback">Ενεργοποίηση απτικής ανάδρασης</string>
-    <string name="osc_feedback_description">Εξαιρούνται τα χειριστήρια και τα χειριστήρια υλικού</string>
+    <string name="osc_feedback_description">Εξαιρούνται οι μοχλοί και τα χειριστήρια υλικού</string>
     <string name="osc_edit">Επεξεργασία διάταξης στοιχείων ελέγχου επί της οθόνης</string>
     <string name="osc_text_color">Χρώμα γραμματοσειράς </string>
     <string name="osc_background_color">Χρώμα παρασκηνίου</string>
