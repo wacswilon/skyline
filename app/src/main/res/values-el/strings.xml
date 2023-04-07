@@ -160,7 +160,7 @@
     <string name="osc_background_color">Χρώμα παρασκηνίου</string>
     <string name="setup_guide">Οδηγός εγκατάστασης</string>
     <string name="setup_guide_description">Διαδοχικά χαρτογράφησε κάθε μοχλό και κουμπί</string>
-    <string name="joystick">Χειριστήριο</string>
+    <string name="joystick">Μοχλός</string>
     <string name="confirm">Επιβεβαίωση</string>
     <string name="cancel">Ακύρωση</string>
     <string name="osc_recenter_sticks">Επικέντρωση μπαστουνιών με το άγγιγμα</string>
