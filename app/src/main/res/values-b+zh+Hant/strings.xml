@@ -206,8 +206,8 @@
     <string name="emu_menu_button">模擬器選單</string>
     <string name="stick_preview">搖桿預覽</string>
     <string name="done">完成</string>
-    <string name="use_non_stick">使用任意未配置的按鍵完成設置</string>
-    <string name="button">按鍵</string>
+    <string name="use_non_stick">使用任何未對應的按鈕以完成</string>
+    <string name="button">按鈕</string>
     <string name="up">上</string>
     <string name="down">下</string>
     <string name="left">左</string>
