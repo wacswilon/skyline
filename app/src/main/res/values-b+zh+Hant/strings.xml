@@ -9,7 +9,7 @@
     <string name="share_logs">分享記錄</string>
     <string name="refresh">重新整理</string>
     <!-- Toolbar - Share Logs -->
-    <string name="log_share_prompt">共享日誌文件</string>
+    <string name="log_share_prompt">分享記錄檔</string>
     <string name="logs_not_found">上次運行期間未創建日誌</string>
     <!-- Main -->
     <string name="all">全部</string>
