@@ -129,7 +129,7 @@
     <string name="disable_subgroup_shuffle_disabled">著色器子群組隨機播放作業已啟用，確保最大精確度</string>
     <!-- Settings - Debug -->
     <string name="debug">偵錯</string>
-    <string name="log_level">日誌級別</string>
+    <string name="log_level">記錄層級</string>
     <string name="validation_layer">啟用調試層</string>
     <string name="validation_layer_enabled">Vulkan 驗證層已啟用，預計會出現重大減速</string>
     <string name="validation_layer_disabled">Vulkan 驗證層已禁用</string>
