@@ -84,7 +84,7 @@
     <string name="screen_orientation">螢幕方向</string>
     <string name="aspect_ratio">長寬比</string>
     <string name="respect_display_cutout">採用螢幕凹口</string>
-    <string name="respect_display_cutout_enabled">不要在切口區域繪製UI 元素</string>
+    <string name="respect_display_cutout_enabled">不要在凹口區域繪製 UI 元素</string>
     <string name="respect_display_cutout_disabled">允許在剪裁區域中繪製 UI 元素</string>
     <!-- Settings - Audio -->
     <string name="audio">音頻</string>
