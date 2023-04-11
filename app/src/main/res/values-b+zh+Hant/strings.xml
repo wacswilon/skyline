@@ -239,7 +239,7 @@
     <string name="pugixml_description">pugixml 用於剖析偏好 XML 以從 C++ 擷取設定</string>
     <string name="opus_description">Opus Audio Codec 提供高品質的 Opus 解碼器，用於解碼訪客提供的 Opus 編碼音訊</string>
     <string name="mbedtls_description">Mbed TLS 用於解密 AES 加密的 NCA</string>
-    <string name="lz4_description">LZ4 用於從 NSO 中提取 LZ4 壓縮的 ELF 部分</string>
+    <string name="lz4_description">LZ4 用於從 NSO 中擷取 LZ4 壓縮的 ELF 區段</string>
     <string name="tzcode_description">tzcode 提供了一個 C API 來訪問 tzdb 以獲取時區數據</string>
     <string name="jssim_description">Java String Similarity 為我們的搜尋功能提供支持</string>
     <string name="andx_description">AndroidX 跨 Android 版本提供一致的用戶體驗</string>
