@@ -48,7 +48,7 @@
     <string name="layout_type">遊戲顯示版面配置</string>
     <string name="sort_apps_by">遊戲排列順序</string>
     <string name="group_by_format">依格式組成遊戲群組</string>
-    <string name="group_by_format_desc_off">遊戲將顯示為單個列表</string>
+    <string name="group_by_format_desc_off">遊戲將被顯示為單一清單</string>
     <string name="group_by_format_desc_on">遊戲將按格式分組顯示</string>
     <string name="select_action">始終顯示遊戲信息</string>
     <string name="select_action_desc_on">遊戲信息將在點擊遊戲時顯示</string>
