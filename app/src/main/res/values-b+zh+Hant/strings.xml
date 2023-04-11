@@ -149,7 +149,7 @@
     <string name="gpu_driver_install_already_installed">提供的驅動程式套件已安裝</string>
     <!-- Input -->
     <string name="input">輸入</string>
-    <string name="osc">熒幕按鍵</string>
+    <string name="osc">螢幕控制</string>
     <string name="osc_enable">啟用熒幕按键</string>
     <string name="osc_not_shown">熒幕按鍵不會顯示</string>
     <string name="osc_shown">熒幕按鍵將會顯示</string>
