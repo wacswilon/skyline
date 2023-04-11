@@ -110,7 +110,7 @@
     <string name="use_direct_memory_import_desc">可能會變更某些遊戲的效能和穩定性\n<b>注意：</b>此選項僅適用於專屬 Adreno 驅動程式</string>
     <string name="force_max_gpu_clocks">強制最大 GPU 時脈</string>
     <string name="force_max_gpu_clocks_desc">強制 GPU 以最大可能時脈速度執行 (可能導致產生過多的熱量和電力用量)</string>
-    <string name="force_max_gpu_clocks_desc_unsupported">您的設備不支持強制最大 GPU 時鐘</string>
+    <string name="force_max_gpu_clocks_desc_unsupported">您的裝置不支援強制最大 GPU 時脈</string>
     <string name="free_guest_texture_memory">閑置訪客紋理內存</string>
     <string name="free_guest_texture_memory_desc">允許訪客紋理數據在不需要時從內存中釋放（很少會導致崩潰）</string>
     <string name="shader_cache">禁用著色器緩存</string>
