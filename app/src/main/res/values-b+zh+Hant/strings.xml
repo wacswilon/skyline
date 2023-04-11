@@ -69,8 +69,8 @@
     <string name="use_docked">使用底座模式</string>
     <string name="handheld_enabled">系統將會模擬手提模式</string>
     <string name="docked_enabled">系統將會模擬底座模式</string>
-    <string name="username">用戶名</string>
-    <string name="profile_picture">頭像</string>
+    <string name="username">使用者名稱</string>
+    <string name="profile_picture">設定檔圖片</string>
     <string name="system_language">系統語言</string>
     <string name="system_region">系統區域</string>
     <!-- Settings - Display -->
