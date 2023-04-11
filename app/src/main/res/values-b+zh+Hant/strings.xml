@@ -95,7 +95,7 @@
     <string name="gpu">GPU</string>
     <string name="gpu_driver_config">GPU 驅動程式組態</string>
     <string name="gpu_driver_config_desc">啟用中的驅動程式：%1$s</string>
-    <string name="gpu_driver_config_desc_unsupported">您的設備不支持自定義驅動程式</string>
+    <string name="gpu_driver_config_desc_unsupported">您的裝置不支援自訂驅動程式</string>
     <string name="force_triple_buffering">強制三重緩衝</string>
     <string name="triple_buffering_enabled">利用至少三個交換鏈緩衝區（更高的 FPS 但更多的輸入延遲）</string>
     <string name="triple_buffering_disabled">利用至少兩個交換鏈緩衝區（較低的 FPS 但較少的輸入延遲）</string>
