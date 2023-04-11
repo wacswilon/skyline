@@ -45,7 +45,7 @@
     <string name="theme">主題</string>
     <string name="app_language">應用程式語言</string>
     <string name="app_language_default">使用系統預設</string>
-    <string name="layout_type">遊戲顯示佈局</string>
+    <string name="layout_type">遊戲顯示版面配置</string>
     <string name="sort_apps_by">遊戲排序順序</string>
     <string name="group_by_format">按格式分組遊戲</string>
     <string name="group_by_format_desc_off">遊戲將顯示為單個列表</string>
