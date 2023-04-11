@@ -163,7 +163,7 @@
     <string name="joystick">搖桿</string>
     <string name="confirm">確認</string>
     <string name="cancel">取消</string>
-    <string name="osc_recenter_sticks">虛擬搖桿跟隨</string>
+    <string name="osc_recenter_sticks">觸控時重新置中搖桿</string>
     <string name="controller">控制器</string>
     <string name="config_controller">配置控制器</string>
     <string name="controller_type">控制器類型</string>
