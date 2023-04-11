@@ -141,7 +141,7 @@
     <string name="system_driver_desc">系統提供的 GPU 驅動程式</string>
     <string name="install">安裝</string>
     <string name="gpu_driver_install_inprogress">正在安裝 GPU 驅動程式…</string>
-    <string name="gpu_driver_install_success">GPU驅動安裝成功</string>
+    <string name="gpu_driver_install_success">GPU 驅動程式已成功安裝</string>
     <string name="gpu_driver_install_invalid_archive">驅動程序解壓失敗</string>
     <string name="gpu_driver_install_missing_metadata">由於缺少元數據，提供的驅動程序包無效</string>
     <string name="gpu_driver_install_invalid_metadata">提供的驅動程序包包含無效的元數據，它可能已損壞</string>
