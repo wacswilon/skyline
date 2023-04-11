@@ -137,7 +137,7 @@
     <string name="gpu_driver">GPU 驅動程式</string>
     <string name="add_gpu_driver">新增 GPU 驅動程式</string>
     <string name="delete_gpu_driver">刪除此 GPU 驅動程式</string>
-    <string name="system_driver">系統驅動</string>
+    <string name="system_driver">系統驅動程式</string>
     <string name="system_driver_desc">系統自帶驅動</string>
     <string name="install">安裝</string>
     <string name="gpu_driver_install_inprogress">安裝GPU驅動…</string>
