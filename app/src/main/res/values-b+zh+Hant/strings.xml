@@ -28,7 +28,7 @@
     <!-- Settings - Content -->
     <string name="content">內容</string>
     <string name="open_data_directory">檢視內部目錄</string>
-    <string name="open_data_directory_summary">在文件管理器中打開Skyline 的内部目錄</string>
+    <string name="open_data_directory_summary">在檔案管理員中開啟 Skyline 的內部目錄</string>
     <string name="open_data_directory_failed">找不到外部文件管理器來打開 Skyline 的内部目錄</string>
     <string name="search_location">搜尋位置</string>
     <!-- Settings - Keys -->
