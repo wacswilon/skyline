@@ -101,7 +101,7 @@
     <string name="triple_buffering_disabled">利用至少兩個交換鏈結緩衝區 (更低的 FPS 但有更少的輸入延遲)</string>
     <string name="disable_frame_throttling">停用影格節流</string>
     <string name="disable_frame_throttling_enabled">允許遊戲盡快提交影格 (僅用於效能評定)\n\n<b>注意：</b>利用替代方法以測量啟用此功能後的 FPS，這些數字不得與節流的 FPS 數字相比較</string>
-    <string name="disable_frame_throttling_disabled">只允許遊戲以顯示刷新率提交FPS</string>
+    <string name="disable_frame_throttling_disabled">僅允許遊戲以顯示器重新整理速率提交影格</string>
     <string name="executor_slot_count_scale">執行器插槽計數比例</string>
     <string name="executor_slot_count_scale_desc">縮放控制同時 GPU 執行的最大數量（更高有時可能表現更好但會使用更多 RAM）</string>
     <string name="executor_flush_threshold">執行器刷新閾值</string>
