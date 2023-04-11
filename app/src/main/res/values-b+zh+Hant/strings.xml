@@ -132,7 +132,7 @@
     <string name="log_level">記錄層級</string>
     <string name="validation_layer">啟用驗證圖層</string>
     <string name="validation_layer_enabled">Vulkan 驗證圖層已啟用，預期會出現重大減速</string>
-    <string name="validation_layer_disabled">Vulkan 驗證層已禁用</string>
+    <string name="validation_layer_disabled">Vulkan 驗證圖層已停用</string>
     <!-- Gpu Driver Activity -->
     <string name="gpu_driver">GPU驅動</string>
     <string name="add_gpu_driver">添加GPU驅動</string>
