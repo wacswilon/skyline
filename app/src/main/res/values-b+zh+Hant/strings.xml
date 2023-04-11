@@ -82,7 +82,7 @@
     <string name="max_refresh_rate_enabled">盡可能將顯示器重新整理速率設得高一點 (將會損毀大多數遊戲)</string>
     <string name="max_refresh_rate_disabled">將顯示器重新整理速率設為 60Hz</string>
     <string name="screen_orientation">螢幕方向</string>
-    <string name="aspect_ratio">縱橫比</string>
+    <string name="aspect_ratio">長寬比</string>
     <string name="respect_display_cutout">剪裁繪製元素</string>
     <string name="respect_display_cutout_enabled">不要在切口區域繪製UI 元素</string>
     <string name="respect_display_cutout_disabled">允許在剪裁區域中繪製 UI 元素</string>
