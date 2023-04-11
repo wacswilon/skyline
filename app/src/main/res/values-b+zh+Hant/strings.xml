@@ -118,7 +118,7 @@
     <string name="shader_cache_enabled">已快取的著色器將會被載入，會大幅減少間斷</string>
     <!-- Settings - Hacks -->
     <string name="hacks">駭客</string>
-    <string name="enable_fast_gpu_readback">啟用快速 GPU 回讀</string>
+    <string name="enable_fast_gpu_readback">啟用快速 GPU 讀回</string>
     <string name="enable_fast_gpu_readback_enabled">啟用快速 GPU 回讀（會破壞一些遊戲，但其他遊戲會有更高的性能）</string>
     <string name="enable_fast_gpu_readback_disabled">禁用快速 GPU 回讀（確保最高精度）</string>
     <string name="enable_fast_readback_writes">啟用快速回讀寫入</string>
