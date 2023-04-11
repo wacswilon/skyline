@@ -75,7 +75,7 @@
     <string name="system_region">系統地區</string>
     <!-- Settings - Display -->
     <string name="display">顯示</string>
-    <string name="perf_stats">顯示性能統計</string>
+    <string name="perf_stats">顯示效能統計資料</string>
     <string name="perf_stats_desc_off">不會顯示性能統計信息</string>
     <string name="perf_stats_desc_on">性能統計將顯示在左上角</string>
     <string name="max_refresh_rate">使用最大顯示刷新率</string>
