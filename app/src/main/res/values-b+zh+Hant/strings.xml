@@ -58,7 +58,7 @@
     <string name="use_custom_settings">啟用自訂設定</string>
     <string name="use_custom_settings_desc_on">已針對此遊戲啟用自訂設定</string>
     <string name="use_custom_settings_desc_off">已針對此遊戲停用自訂設定</string>
-    <string name="reset_custom_settings">重置自定義設置</string>
+    <string name="reset_custom_settings">重設自訂設定</string>
     <string name="reset_custom_settings_desc">將自定義設置重置為默認值</string>
     <string name="reset_settings_warning">您確定要將所有設置重置為默認值？<b>當前設置將會丟失</b></string>
     <string name="copy_global_settings">複製全局設置</string>
