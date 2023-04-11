@@ -142,7 +142,7 @@
     <string name="install">安裝</string>
     <string name="gpu_driver_install_inprogress">正在安裝 GPU 驅動程式…</string>
     <string name="gpu_driver_install_success">GPU 驅動程式已成功安裝</string>
-    <string name="gpu_driver_install_invalid_archive">驅動程序解壓失敗</string>
+    <string name="gpu_driver_install_invalid_archive">無法解壓縮提供的驅動程式套件</string>
     <string name="gpu_driver_install_missing_metadata">由於缺少元數據，提供的驅動程序包無效</string>
     <string name="gpu_driver_install_invalid_metadata">提供的驅動程序包包含無效的元數據，它可能已損壞</string>
     <string name="gpu_driver_install_unsupported_android_version">您的設備不符合所提供驅動程序的最低 Android 版本要求</string>
