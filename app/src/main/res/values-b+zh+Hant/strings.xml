@@ -236,7 +236,7 @@
     <string name="boost_description">Boost 在 C++ 中提供容器和其他便利功能的高品質實作</string>
     <string name="rangev3_description">Range v3 是 ISO C++ 20 範圍的參考實作，這允許我們在 LLVM 的 libc++ 中開發範圍時使用它們</string>
     <string name="frozen_description">Frozen 提供具有完美雜湊函式的編譯時間固定雜湊對應，以更快地查閱</string>
-    <string name="pugixml_description">pugixml 用於解析首選項 XML 以從 C++ 檢索設置</string>
+    <string name="pugixml_description">pugixml 用於剖析偏好 XML 以從 C++ 擷取設定</string>
     <string name="opus_description">Opus Audio Codec 提供高質量的 Opus 解碼器，用於解碼客人提供的 Opus 編碼音頻</string>
     <string name="mbedtls_description">Mbed TLS 用於解密 AES 加密的 NCA</string>
     <string name="lz4_description">LZ4 用於從 NSO 中提取 LZ4 壓縮的 ELF 部分</string>
