@@ -15,7 +15,7 @@
     <string name="all">全部</string>
     <string name="metadata_missing">中繼資料遺失</string>
     <string name="icon">圖示</string>
-    <string name="no_rom">找不到任何ROM</string>
+    <string name="no_rom">找不到任何 ROM</string>
     <string name="pin">按住</string>
     <string name="play">開始</string>
     <string name="searching_roms">查找ROM</string>
