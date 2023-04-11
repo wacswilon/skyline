@@ -122,8 +122,8 @@
     <string name="enable_fast_gpu_readback_enabled">快速 GPU 讀回已啟用 (會損毀某些遊戲，但其他遊戲會有更高的效能)</string>
     <string name="enable_fast_gpu_readback_disabled">快速 GPU 讀回已停用 (確保最高精確度)</string>
     <string name="enable_fast_readback_writes">啟用快速讀回寫入</string>
-    <string name="enable_fast_readback_writes_enabled">快速回讀寫入已啟用</string>
-    <string name="enable_fast_readback_writes_disabled">快速回讀寫入已禁用</string>
+    <string name="enable_fast_readback_writes_enabled">快速讀回寫入已啟用</string>
+    <string name="enable_fast_readback_writes_disabled">快速讀回寫入已停用</string>
     <string name="disable_subgroup_shuffle">禁用 GPU 子組隨機播放</string>
     <string name="disable_subgroup_shuffle_enabled">著色器子組隨機播放操作被禁用，可能會導致嚴重的圖形問題</string>
     <string name="disable_subgroup_shuffle_disabled">啟用著色器子組隨機播放操作，確保最大準確性</string>
