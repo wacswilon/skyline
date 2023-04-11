@@ -107,7 +107,7 @@
     <string name="executor_flush_threshold">執行程式清除閾值</string>
     <string name="executor_flush_threshold_desc">控制工作被排清至 GPU 的頻率</string>
     <string name="use_direct_memory_import">使用直接記憶體匯入</string>
-    <string name="use_direct_memory_import_desc">可能會改變某些遊戲的性能和穩定性\n<b>注意:</b>此選項僅適用於專有的 Adreno 驅動程序</string>
+    <string name="use_direct_memory_import_desc">可能會變更某些遊戲的效能和穩定性\n<b>注意：</b>此選項僅適用於專屬 Adreno 驅動程式</string>
     <string name="force_max_gpu_clocks">強制最大 GPU 時鐘</string>
     <string name="force_max_gpu_clocks_desc">強制 GPU 以最大可能時鐘速度運行（可能導致過熱和耗電）</string>
     <string name="force_max_gpu_clocks_desc_unsupported">您的設備不支持強制最大 GPU 時鐘</string>
