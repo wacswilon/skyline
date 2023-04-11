@@ -174,7 +174,7 @@
     <string name="rjoycon">右 Joy-Con</string>
     <string name="general">一般</string>
     <string name="partner_joycon">夥伴 Joy-Con</string>
-    <string name="rumble_device">振動設置</string>
+    <string name="rumble_device">震動裝置</string>
     <string name="supported">支持</string>
     <string name="not_supported">不支持</string>
     <string name="press_any_button">按下控制器上的任意按鍵</string>
