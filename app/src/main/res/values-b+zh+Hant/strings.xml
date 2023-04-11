@@ -177,7 +177,7 @@
     <string name="rumble_device">震動裝置</string>
     <string name="supported">支援</string>
     <string name="not_supported">不支援</string>
-    <string name="press_any_button">按下控制器上的任意按鍵</string>
+    <string name="press_any_button">按下控制器上的任意按鈕</string>
     <string name="confirm_button_again">再次按下按鍵確認選擇</string>
     <string name="builtin">內置</string>
     <string name="builtin_vibrator">內置振動器</string>
