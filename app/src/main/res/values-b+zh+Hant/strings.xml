@@ -63,9 +63,9 @@
     <string name="reset_settings_warning">您確定要將所有設定重設為預設值？<b>目前設定將會遺失</b></string>
     <string name="copy_global_settings">複製全域設定</string>
     <string name="copy_global_settings_desc">複製全域設定至此遊戲</string>
-    <string name="copy_global_settings_warning">您確定要將全局設置複製到此遊戲？<b>當前設置將會丟失</b></string>
+    <string name="copy_global_settings_warning">您確定要將全域設定複製到此遊戲？<b>目前設定將會遺失</b></string>
     <!-- Settings - System -->
-    <string name="system">系統設置</string>
+    <string name="system">系統</string>
     <string name="use_docked">啟用停靠模式</string>
     <string name="handheld_enabled">正在使用手持模式</string>
     <string name="docked_enabled">正在使用停靠模式</string>
