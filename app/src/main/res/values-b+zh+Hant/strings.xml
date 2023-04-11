@@ -151,7 +151,7 @@
     <string name="input">輸入</string>
     <string name="osc">螢幕控制</string>
     <string name="osc_enable">啟用螢幕控制</string>
-    <string name="osc_not_shown">熒幕按鍵不會顯示</string>
+    <string name="osc_not_shown">螢幕控制將不會顯示</string>
     <string name="osc_shown">熒幕按鍵將會顯示</string>
     <string name="osc_feedback">啟用觸覺振動反饋</string>
     <string name="osc_feedback_description">不包括搖桿和硬件控制</string>
