@@ -203,7 +203,7 @@
     <string name="right_trigger">ZR</string>
     <string name="plus_button">+</string>
     <string name="minus_button">-</string>
-    <string name="emu_menu_button">菜單</string>
+    <string name="emu_menu_button">模擬器選單</string>
     <string name="stick_preview">搖桿預覽</string>
     <string name="done">完成</string>
     <string name="use_non_stick">使用任意未配置的按鍵完成設置</string>
