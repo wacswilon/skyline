@@ -114,7 +114,7 @@
     <string name="free_guest_texture_memory">釋出訪客紋理記憶體</string>
     <string name="free_guest_texture_memory_desc">允許在不需要時從記憶體中釋出訪客紋理資料 (很少會導致當機)</string>
     <string name="shader_cache">停用著色器快取</string>
-    <string name="shader_cache_disabled">緩存的著色器不會被加載，會導致卡頓</string>
+    <string name="shader_cache_disabled">已快取的著色器將不會被載入，會導致間斷</string>
     <string name="shader_cache_enabled">緩存的著色器將被加載，可以大大減少卡頓</string>
     <!-- Settings - Hacks -->
     <string name="hacks">駭客</string>
