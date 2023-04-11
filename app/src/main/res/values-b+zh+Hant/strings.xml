@@ -66,7 +66,7 @@
     <string name="copy_global_settings_warning">您確定要將全域設定複製到此遊戲？<b>目前設定將會遺失</b></string>
     <!-- Settings - System -->
     <string name="system">系統</string>
-    <string name="use_docked">啟用停靠模式</string>
+    <string name="use_docked">使用底座模式</string>
     <string name="handheld_enabled">正在使用手持模式</string>
     <string name="docked_enabled">正在使用停靠模式</string>
     <string name="username">用戶名</string>
