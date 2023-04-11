@@ -225,7 +225,7 @@
     <string name="licenses">授權</string>
     <string name="skyline_license_description">Skyline 係由 Mozilla Public License 2.0 所授權</string>
     <string name="ryujinx_description">由於 Ryujinx 的高精確度實作，因此它在整個專案中都被用於參考\n\n<b>注意：Skyline 並非以 Ryujinx 為基礎</b></string>
-    <string name="shader_compiler_description">Skyline 的著色器編譯器是<b>分支</b>的<i>yuzu</i>的著色器編譯器具有特定於 Skyline 的更改，而其他更改在它們之間共享，允許兩個項目從它的開發中受益\n\n<b>注意：</b>只有在 Skyline 授予許可豁免的情況下，才能在 Skyline 中使用它<i>yuzu</i>团队</string>
+    <string name="shader_compiler_description">Skyline 的著色器編譯器是 <i>yuzu</i> 的著色器編譯器的一個<b>分支</b>，其中有 Skyline 特有的變更，而其他變更則是它們之間共用的，這使得兩個專案都能從它的開發中受益\n\n<b>注意：</b>由於 <i>yuzu</i> 團隊授予 Skyline 的授權豁免，所以在 Skyline 中使用它是可能的。</string>
     <string name="sirit_description">Skyline 的著色器編譯器在內部使用 Sirit 以高效的方式發出 SPIR-V</string>
     <string name="vkhpp_description">Vulkan-Hpp 為 Vulkan 提供了一個 C++ API</string>
     <string name="vkma_description">Vulkan Memory Allocator 提供具有 UMA 支持的高質量 GPU 內存分配器</string>
