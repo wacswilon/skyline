@@ -220,7 +220,7 @@
     <string name="shoulder_rail">Joy-Con 滑軌的背部按鈕</string>
     <string name="misc_buttons">雜項按鈕</string>
     <!-- Credits -->
-    <string name="credits">貢獻榜</string>
+    <string name="credits">製作群</string>
     <!-- Licenses -->
     <string name="licenses">許可證</string>
     <string name="skyline_license_description">Skyline 在 Mozilla Public License 2.0 下獲得許可</string>
