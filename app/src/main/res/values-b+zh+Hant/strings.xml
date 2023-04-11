@@ -230,7 +230,7 @@
     <string name="vkhpp_description">Vulkan-Hpp 為 Vulkan 提供了一個 C++ API</string>
     <string name="vkma_description">Vulkan Memory Allocator 提供具有 UMA 支援的高品質 GPU 記憶體配置器</string>
     <string name="khvkval_description">Khronos 的 Vulkan 驗證圖層為偵錯組建中的 Vulkan API 呼叫提供錯誤檢查</string>
-    <string name="oboe_description">oboe用於高性能音頻輸出</string>
+    <string name="oboe_description">Oboe 用於高效能音訊輸出</string>
     <string name="perfetto_description">Perfetto 用於通過詳細跟蹤進行分析和調試</string>
     <string name="fmtlib_description">{fmt} 提供現代 C++ 字符串格式化 API</string>
     <string name="boost_description">Boost 在 C++ 中提供容器和其他便利功能的高質量實現</string>
