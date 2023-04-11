@@ -17,7 +17,7 @@
     <string name="icon">圖示</string>
     <string name="no_rom">找不到任何 ROM</string>
     <string name="pin">釘選</string>
-    <string name="play">開始</string>
+    <string name="play">啟動</string>
     <string name="searching_roms">搜尋 ROM</string>
     <string name="invalid_file">無效的檔案</string>
     <string name="missing_title_key">遺失標題金鑰</string>
