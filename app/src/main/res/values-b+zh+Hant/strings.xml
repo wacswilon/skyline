@@ -183,7 +183,7 @@
     <string name="builtin_vibrator">內建震動器</string>
     <string name="reset">重設</string>
     <string name="buttons">按鈕</string>
-    <string name="use_button_axis">使用控制器上的任何按鍵或搖桿</string>
+    <string name="use_button_axis">使用控制器上的任何按鈕或搖桿</string>
     <string name="release_confirm">鬆開以確認選擇</string>
     <string name="hold_confirm">按住以確認選擇</string>
     <string name="sticks">搖桿</string>
