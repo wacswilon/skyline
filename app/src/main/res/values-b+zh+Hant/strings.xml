@@ -2,7 +2,7 @@
     <!-- Common -->
     <string name="search">搜尋</string>
     <string name="error">發生錯誤</string>
-    <string name="copied_to_clipboard">複製到剪貼板</string>
+    <string name="copied_to_clipboard">複製到剪貼簿</string>
     <string name="emulator">模擬器</string>
     <!-- Toolbar Main -->
     <string name="settings">設置</string>
