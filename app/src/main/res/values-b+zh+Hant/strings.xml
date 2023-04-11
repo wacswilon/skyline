@@ -34,7 +34,7 @@
     <!-- Settings - Keys -->
     <string name="keys">金鑰</string>
     <string name="prod_keys">產品金鑰</string>
-    <string name="title_keys">Title Keys</string>
+    <string name="title_keys">標題金鑰</string>
     <string name="import_keys_success">成功導入密匙</string>
     <string name="import_keys_invalid_input_path">提供的密匙路徑無效</string>
     <string name="import_keys_invalid_keys">您嘗試導入的密匙無效</string>
