@@ -158,7 +158,7 @@
     <string name="osc_edit">編輯螢幕控制版面配置</string>
     <string name="osc_text_color">文字色彩</string>
     <string name="osc_background_color">背景色彩</string>
-    <string name="setup_guide">設置指南</string>
+    <string name="setup_guide">設定指南</string>
     <string name="setup_guide_description">依次設置每個搖桿和按鍵</string>
     <string name="joystick">搖桿</string>
     <string name="confirm">確認</string>
