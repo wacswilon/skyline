@@ -254,6 +254,6 @@
     <!-- Misc -->
     <!--suppress AndroidLintUnusedResources -->
     <string name="expand_button_title" tools:override="true">展開</string>
-    <string name="undo">撤銷</string>
+    <string name="undo">復原</string>
     <string name="per_game_settings_active_message">每個遊戲的設置都是有效的</string>
 </resources>
