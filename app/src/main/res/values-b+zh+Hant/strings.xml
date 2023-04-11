@@ -145,7 +145,7 @@
     <string name="gpu_driver_install_invalid_archive">無法解壓縮提供的驅動程式套件</string>
     <string name="gpu_driver_install_missing_metadata">由於遺失中繼資料，提供的驅動程式套件無效</string>
     <string name="gpu_driver_install_invalid_metadata">提供的驅動程式套件包含無效的中繼資料，它可能已損毀</string>
-    <string name="gpu_driver_install_unsupported_android_version">您的設備不符合所提供驅動程序的最低 Android 版本要求</string>
+    <string name="gpu_driver_install_unsupported_android_version">您的裝置不符合提供的驅動程式的最低 Android 版本要求</string>
     <string name="gpu_driver_install_already_installed">驅動程序包已經安裝</string>
     <!-- Input -->
     <string name="input">輸入</string>
