@@ -93,7 +93,7 @@
     <string name="disable_audio_output_disabled">音訊輸出已啟用</string>
     <!-- Settings - GPU -->
     <string name="gpu">GPU</string>
-    <string name="gpu_driver_config">GPU 驅動程式配置</string>
+    <string name="gpu_driver_config">GPU 驅動程式組態</string>
     <string name="gpu_driver_config_desc">GPU驅動程式: %1$s</string>
     <string name="gpu_driver_config_desc_unsupported">您的設備不支持自定義驅動程式</string>
     <string name="force_triple_buffering">強制三重緩衝</string>
