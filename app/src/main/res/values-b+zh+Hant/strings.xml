@@ -78,7 +78,7 @@
     <string name="perf_stats">顯示效能統計資料</string>
     <string name="perf_stats_desc_off">效能統計資料將不會被顯示</string>
     <string name="perf_stats_desc_on">效能統計資料將被顯示在左上角</string>
-    <string name="max_refresh_rate">使用最大顯示刷新率</string>
+    <string name="max_refresh_rate">使用最大顯示器重新整理速率</string>
     <string name="max_refresh_rate_enabled">將顯示刷新率設置得盡可能高（會破壞大多數遊戲）</string>
     <string name="max_refresh_rate_disabled">將顯示刷新率設置為 60Hz</string>
     <string name="screen_orientation">螢幕方向</string>
