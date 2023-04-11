@@ -233,7 +233,7 @@
     <string name="oboe_description">Oboe 用於高效能音訊輸出</string>
     <string name="perfetto_description">Perfetto 用於透過詳細追蹤進行分析和偵錯</string>
     <string name="fmtlib_description">{fmt} 提供現代 C++ 字串格式 API</string>
-    <string name="boost_description">Boost 在 C++ 中提供容器和其他便利功能的高品質實作</string>
+    <string name="boost_description">Boost 在 C++ 中提供容器和其他便利函式的高品質實作</string>
     <string name="rangev3_description">Range v3 是 ISO C++ 20 範圍的參考實作，這允許我們在 LLVM 的 libc++ 中開發範圍時使用它們</string>
     <string name="frozen_description">Frozen 提供具有完美雜湊函式的編譯時間固定雜湊對應，以更快地查閱</string>
     <string name="pugixml_description">pugixml 用於剖析偏好 XML 以從 C++ 擷取設定</string>
