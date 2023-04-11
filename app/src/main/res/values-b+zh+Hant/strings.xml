@@ -60,7 +60,7 @@
     <string name="use_custom_settings_desc_off">已針對此遊戲停用自訂設定</string>
     <string name="reset_custom_settings">重設自訂設定</string>
     <string name="reset_custom_settings_desc">將自訂設定重設為預設值</string>
-    <string name="reset_settings_warning">您確定要將所有設置重置為默認值？<b>當前設置將會丟失</b></string>
+    <string name="reset_settings_warning">您確定要將所有設定重設為預設值？<b>目前設定將會遺失</b></string>
     <string name="copy_global_settings">複製全局設置</string>
     <string name="copy_global_settings_desc">複製全局設置到此遊戲</string>
     <string name="copy_global_settings_warning">您確定要將全局設置複製到此遊戲？<b>當前設置將會丟失</b></string>
