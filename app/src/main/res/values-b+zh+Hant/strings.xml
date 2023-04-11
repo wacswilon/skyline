@@ -246,7 +246,7 @@
     <string name="amat_description">Android Material Components 提供一致的 Material Design UI</string>
     <string name="ktstd_description">Kotlin 標準程式庫在 Kotlin 中提供了便利的函式</string>
     <string name="dagger_description">Dagger 為編譯時間相依性插入提供了一個架構</string>
-    <string name="mtico_description">Material Design Icons 在整個應用程序中提供一致的圖標</string>
+    <string name="mtico_description">Material Design Icons 在應用程式中提供一致的圖示</string>
     <string name="noto_sans_description">Noto Sans 被用作我們的 FOSS 共享字體替換拉丁文、日文和（繁體）中文</string>
     <string name="roboto_description">Roboto 被用作我們的 FOSS 共享字體替換韓語和任天堂的擴展字符集</string>
     <!-- Software Keyboard -->
