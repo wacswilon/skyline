@@ -38,7 +38,7 @@
     <string name="import_keys_success">已成功匯入金鑰</string>
     <string name="import_keys_invalid_input_path">提供的金鑰路徑無效</string>
     <string name="import_keys_invalid_keys">您嘗試匯入的金鑰無效</string>
-    <string name="import_keys_delete_previous_failed">無法刪除當前安裝的密匙</string>
+    <string name="import_keys_delete_previous_failed">無法刪除目前安裝的金鑰</string>
     <string name="import_keys_move_failed">無法將密匙移動到當前目錄</string>
     <!-- Settings - Appearance -->
     <string name="appearance">外觀</string>
