@@ -19,7 +19,7 @@
     <string name="pin">按住</string>
     <string name="play">開始</string>
     <string name="searching_roms">搜尋 ROM</string>
-    <string name="invalid_file">無效的文件</string>
+    <string name="invalid_file">無效的檔案</string>
     <string name="missing_title_key">缺少title prod密匙</string>
     <string name="incomplete_prod_keys">密匙不完整</string>
     <!-- Picture-In-Picture -->
