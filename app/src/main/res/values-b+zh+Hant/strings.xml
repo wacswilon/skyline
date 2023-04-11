@@ -10,7 +10,7 @@
     <string name="refresh">重新整理</string>
     <!-- Toolbar - Share Logs -->
     <string name="log_share_prompt">分享記錄檔</string>
-    <string name="logs_not_found">上次運行期間未創建日誌</string>
+    <string name="logs_not_found">上次執行期間並未建立記錄</string>
     <!-- Main -->
     <string name="all">全部</string>
     <string name="metadata_missing">元數據丟失</string>
