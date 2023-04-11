@@ -248,7 +248,7 @@
     <string name="dagger_description">Dagger 為編譯時間相依性插入提供了一個架構</string>
     <string name="mtico_description">Material Design Icons 在應用程式中提供一致的圖示</string>
     <string name="noto_sans_description">Noto Sans 被用作我們的 FOSS 共用字形取代拉丁文、日文和 (繁體) 中文</string>
-    <string name="roboto_description">Roboto 被用作我們的 FOSS 共享字體替換韓語和任天堂的擴展字符集</string>
+    <string name="roboto_description">Roboto 被用作我們的 FOSS 共用字形取代韓文和 Nintendo 的擴充字元集</string>
     <!-- Software Keyboard -->
     <string name="input_hint">輸入文字</string>
     <!-- Misc -->
