@@ -212,7 +212,7 @@
     <string name="down">下</string>
     <string name="left">左</string>
     <string name="right">右</string>
-    <string name="dpad">十字鍵</string>
+    <string name="dpad">方向鍵</string>
     <string name="left_stick">左搖桿</string>
     <string name="right_stick">右搖桿</string>
     <string name="face_buttons">功能按鍵</string>
