@@ -168,8 +168,8 @@
     <string name="config_controller">設定控制器</string>
     <string name="controller_type">控制器類型</string>
     <string name="none">無</string>
-    <string name="handheld_procon">手持模式+PRO手把</string>
-    <string name="procon">PRO手把</string>
+    <string name="handheld_procon">手提模式 + Pro控制器</string>
+    <string name="procon">Pro控制器</string>
     <string name="ljoycon">左Joy-Con</string>
     <string name="rjoycon">右Joy-Con</string>
     <string name="general">一般設置</string>
