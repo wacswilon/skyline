@@ -50,7 +50,7 @@
     <string name="group_by_format">依格式組成遊戲群組</string>
     <string name="group_by_format_desc_off">遊戲將作為單一清單顯示</string>
     <string name="group_by_format_desc_on">遊戲將依格式組成群組顯示</string>
-    <string name="select_action">始終顯示遊戲信息</string>
+    <string name="select_action">一律顯示遊戲資訊</string>
     <string name="select_action_desc_on">遊戲信息將在點擊遊戲時顯示</string>
     <string name="select_action_desc_off">遊戲信息只會在長按遊戲時顯示</string>
     <!-- Settings - Game -->
