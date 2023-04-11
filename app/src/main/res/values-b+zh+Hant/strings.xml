@@ -89,7 +89,7 @@
     <!-- Settings - Audio -->
     <string name="audio">音訊</string>
     <string name="disable_audio_output">停用音訊輸出</string>
-    <string name="disable_audio_output_enabled">音頻輸出被禁用</string>
+    <string name="disable_audio_output_enabled">音訊輸出已停用</string>
     <string name="disable_audio_output_disabled">啟用音頻輸出</string>
     <!-- Settings - GPU -->
     <string name="gpu">GPU</string>
