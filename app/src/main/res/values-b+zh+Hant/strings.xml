@@ -134,7 +134,7 @@
     <string name="validation_layer_enabled">Vulkan 驗證圖層已啟用，預期會出現重大減速</string>
     <string name="validation_layer_disabled">Vulkan 驗證圖層已停用</string>
     <!-- Gpu Driver Activity -->
-    <string name="gpu_driver">GPU驅動</string>
+    <string name="gpu_driver">GPU 驅動程式</string>
     <string name="add_gpu_driver">添加GPU驅動</string>
     <string name="delete_gpu_driver">刪除選中的GPU驅動</string>
     <string name="system_driver">系統驅動</string>
