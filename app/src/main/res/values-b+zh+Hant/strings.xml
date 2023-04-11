@@ -244,7 +244,7 @@
     <string name="jssim_description">Java String Similarity 為我們的搜尋功能提供支援</string>
     <string name="andx_description">AndroidX 跨 Android 版本提供一致的使用者體驗</string>
     <string name="amat_description">Android Material Components 提供一致的 Material Design UI</string>
-    <string name="ktstd_description">Kotlin 標準庫在 Kotlin 中提供了便利的函數</string>
+    <string name="ktstd_description">Kotlin 標準程式庫在 Kotlin 中提供了便利的函式</string>
     <string name="dagger_description">Dagger 為編譯時依賴注入提供了一個框架</string>
     <string name="mtico_description">Material Design Icons 在整個應用程序中提供一致的圖標</string>
     <string name="noto_sans_description">Noto Sans 被用作我們的 FOSS 共享字體替換拉丁文、日文和（繁體）中文</string>
