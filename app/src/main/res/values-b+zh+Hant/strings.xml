@@ -242,7 +242,7 @@
     <string name="lz4_description">LZ4 用於從 NSO 中擷取 LZ4 壓縮的 ELF 區段</string>
     <string name="tzcode_description">tzcode 提供了一個 C API 以存取 tzdb 時區資料</string>
     <string name="jssim_description">Java String Similarity 為我們的搜尋功能提供支援</string>
-    <string name="andx_description">AndroidX 跨 Android 版本提供一致的用戶體驗</string>
+    <string name="andx_description">AndroidX 跨 Android 版本提供一致的使用者體驗</string>
     <string name="amat_description">Android Material Components 提供一致的 Material Design UI</string>
     <string name="ktstd_description">Kotlin 標準庫在 Kotlin 中提供了便利的函數</string>
     <string name="dagger_description">Dagger 為編譯時依賴注入提供了一個框架</string>
