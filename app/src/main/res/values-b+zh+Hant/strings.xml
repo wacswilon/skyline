@@ -99,7 +99,7 @@
     <string name="force_triple_buffering">強制三重緩衝處理</string>
     <string name="triple_buffering_enabled">利用至少三個交換鏈結緩衝區 (更高的 FPS 但有更多的輸入延遲)</string>
     <string name="triple_buffering_disabled">利用至少兩個交換鏈結緩衝區 (更低的 FPS 但有更少的輸入延遲)</string>
-    <string name="disable_frame_throttling">禁用FPS限制</string>
+    <string name="disable_frame_throttling">停用影格節流</string>
     <string name="disable_frame_throttling_enabled">允許遊戲盡快提交FPS（僅用於基準測試）\n\n<b>注意：</b>啟用此功能後，使用另一種方​​法來測量 FPS，不得將這些數字與節流的 FPS 數字進行比較</string>
     <string name="disable_frame_throttling_disabled">只允許遊戲以顯示刷新率提交FPS</string>
     <string name="executor_slot_count_scale">執行器插槽計數比例</string>
