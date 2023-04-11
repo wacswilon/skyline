@@ -169,7 +169,7 @@
     <string name="controller_type">控制器類型</string>
     <string name="none">無</string>
     <string name="handheld_procon">手提模式 + Pro 控制器</string>
-    <string name="procon">Pro控制器</string>
+    <string name="procon">Pro 控制器</string>
     <string name="ljoycon">左 Joy-Con</string>
     <string name="rjoycon">右 Joy-Con</string>
     <string name="general">一般</string>
