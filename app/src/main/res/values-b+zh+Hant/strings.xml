@@ -124,7 +124,7 @@
     <string name="enable_fast_readback_writes">啟用快速讀回寫入</string>
     <string name="enable_fast_readback_writes_enabled">快速讀回寫入已啟用</string>
     <string name="enable_fast_readback_writes_disabled">快速讀回寫入已停用</string>
-    <string name="disable_subgroup_shuffle">禁用 GPU 子組隨機播放</string>
+    <string name="disable_subgroup_shuffle">停用 GPU 子群組隨機播放</string>
     <string name="disable_subgroup_shuffle_enabled">著色器子組隨機播放操作被禁用，可能會導致嚴重的圖形問題</string>
     <string name="disable_subgroup_shuffle_disabled">啟用著色器子組隨機播放操作，確保最大準確性</string>
     <!-- Settings - Debug -->
