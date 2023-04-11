@@ -105,7 +105,7 @@
     <string name="executor_slot_count_scale">執行程式插槽計數比例</string>
     <string name="executor_slot_count_scale_desc">調整控制 GPU 同步處理執行的最大數目 (有時可能效能更佳，但會使用更多 RAM)</string>
     <string name="executor_flush_threshold">執行程式清除閾值</string>
-    <string name="executor_flush_threshold_desc">控制將工作刷新到 GPU 的頻率</string>
+    <string name="executor_flush_threshold_desc">控制工作被排清至 GPU 的頻率</string>
     <string name="use_direct_memory_import">使用直接內存導入</string>
     <string name="use_direct_memory_import_desc">可能會改變某些遊戲的性能和穩定性\n<b>注意:</b>此選項僅適用於專有的 Adreno 驅動程序</string>
     <string name="force_max_gpu_clocks">強制最大 GPU 時鐘</string>
