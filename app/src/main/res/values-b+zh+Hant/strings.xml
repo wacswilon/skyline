@@ -228,7 +228,7 @@
     <string name="shader_compiler_description">Skyline 的著色器編譯器是 <i>yuzu</i> 的著色器編譯器的一個<b>分支</b>，其中有 Skyline 特有的變更，而其他變更則是它們之間共用的，這使得兩個專案都能從它的開發中受益\n\n<b>注意：</b>由於 <i>yuzu</i> 團隊授予 Skyline 的授權豁免，所以在 Skyline 中使用它是可能的。</string>
     <string name="sirit_description">Skyline 的著色器編譯器在內部使用 Sirit 以高效率的方式發出 SPIR-V</string>
     <string name="vkhpp_description">Vulkan-Hpp 為 Vulkan 提供了一個 C++ API</string>
-    <string name="vkma_description">Vulkan Memory Allocator 提供具有 UMA 支持的高質量 GPU 內存分配器</string>
+    <string name="vkma_description">Vulkan Memory Allocator 提供具有 UMA 支援的高品質 GPU 記憶體配置器</string>
     <string name="khvkval_description">Khronos 的 Vulkan 驗證層為調試版本中的 Vulkan API 調用提供錯誤檢查</string>
     <string name="oboe_description">oboe用於高性能音頻輸出</string>
     <string name="perfetto_description">Perfetto 用於通過詳細跟蹤進行分析和調試</string>
