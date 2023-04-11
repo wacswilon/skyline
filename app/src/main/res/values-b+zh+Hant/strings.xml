@@ -32,8 +32,8 @@
     <string name="open_data_directory_failed">找不到可以開啟 Skyline 的內部目錄的外部檔案管理員</string>
     <string name="search_location">搜尋位置</string>
     <!-- Settings - Keys -->
-    <string name="keys">Keys文件</string>
-    <string name="prod_keys">Production Keys</string>
+    <string name="keys">金鑰</string>
+    <string name="prod_keys">產品金鑰</string>
     <string name="title_keys">Title Keys</string>
     <string name="import_keys_success">成功導入密匙</string>
     <string name="import_keys_invalid_input_path">提供的密匙路徑無效</string>
