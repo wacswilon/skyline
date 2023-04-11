@@ -6,7 +6,7 @@
     <string name="emulator">模擬器</string>
     <!-- Toolbar Main -->
     <string name="settings">設定</string>
-    <string name="share_logs">共享日誌</string>
+    <string name="share_logs">分享記錄</string>
     <string name="refresh">刷新</string>
     <!-- Toolbar - Share Logs -->
     <string name="log_share_prompt">共享日誌文件</string>
