@@ -217,7 +217,7 @@
     <string name="right_stick">右搖桿</string>
     <string name="face_buttons">正面按鈕</string>
     <string name="shoulder_trigger">背面按鈕</string>
-    <string name="shoulder_rail">Joy-Con手把上的L/R鍵</string>
+    <string name="shoulder_rail">Joy-Con 滑軌的 L/R 鍵</string>
     <string name="misc_buttons">雜項按鍵</string>
     <!-- Credits -->
     <string name="credits">貢獻榜</string>
