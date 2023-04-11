@@ -113,7 +113,7 @@
     <string name="force_max_gpu_clocks_desc_unsupported">您的裝置不支援強制最大 GPU 時脈</string>
     <string name="free_guest_texture_memory">釋出訪客紋理記憶體</string>
     <string name="free_guest_texture_memory_desc">允許在不需要時從記憶體中釋出訪客紋理資料 (很少會導致當機)</string>
-    <string name="shader_cache">禁用著色器緩存</string>
+    <string name="shader_cache">停用著色器快取</string>
     <string name="shader_cache_disabled">緩存的著色器不會被加載，會導致卡頓</string>
     <string name="shader_cache_enabled">緩存的著色器將被加載，可以大大減少卡頓</string>
     <!-- Settings - Hacks -->
