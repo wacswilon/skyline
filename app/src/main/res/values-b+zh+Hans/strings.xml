@@ -85,7 +85,7 @@
     <string name="aspect_ratio">宽高比</string>
     <string name="respect_display_cutout">剪裁绘制元素</string>
     <string name="respect_display_cutout_enabled">不要在屏幕剪裁区绘制 UI 元素</string>
-    <string name="respect_display_cutout_disabled">允许在剪裁区域中绘制 UI 元素</string>
+    <string name="respect_display_cutout_disabled">允许在屏幕剪裁区中绘制 UI 元素</string>
     <!-- Settings - Audio -->
     <string name="audio">音频</string>
     <string name="disable_audio_output">禁用音频输出</string>
