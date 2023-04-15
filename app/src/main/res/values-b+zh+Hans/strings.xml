@@ -32,7 +32,7 @@
     <string name="open_data_directory_failed">找不到外部文件管理器来打开 Skyline 的内部目录</string>
     <string name="search_location">搜索位置</string>
     <!-- Settings - Keys -->
-    <string name="keys">Keys文件</string>
+    <string name="keys">密钥文件</string>
     <string name="prod_keys">Production Keys</string>
     <string name="title_keys">Title Keys</string>
     <string name="import_keys_success">成功导入Keys文件</string>
