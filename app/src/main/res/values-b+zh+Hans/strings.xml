@@ -103,7 +103,7 @@
     <string name="disable_frame_throttling_enabled">允许游戏以尽可能快的速度提交帧（仅用于基准测试）\n\n<b>注意：</b>启用此功能后，将使用另一种方法来测量 FPS，这些数字不得与受限制的 FPS 数字进行比较</string>
     <string name="disable_frame_throttling_disabled">只允许游戏以显示刷新率提交帧</string>
     <string name="executor_slot_count_scale">执行器插槽计数比例</string>
-    <string name="executor_slot_count_scale_desc">缩放控制同时 GPU 执行的最大数量（更高有时可能表现更好但会使用更多 RAM）</string>
+    <string name="executor_slot_count_scale_desc">缩放控制 GPU 同时执行的最大数量（更高有时可能表现更好但会使用更多 RAM）</string>
     <string name="executor_flush_threshold">执行器刷新阈值</string>
     <string name="executor_flush_threshold_desc">控制将工作刷新到 GPU 的频率</string>
     <string name="use_direct_memory_import">使用直接内存导入</string>
