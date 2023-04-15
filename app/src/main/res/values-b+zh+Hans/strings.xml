@@ -126,7 +126,7 @@
     <string name="enable_fast_readback_writes_disabled">快速回读写入已禁用</string>
     <string name="disable_subgroup_shuffle">禁用 GPU 子组随机播放</string>
     <string name="disable_subgroup_shuffle_enabled">着色器子组随机播放被禁用，可能会导致严重的图形问题</string>
-    <string name="disable_subgroup_shuffle_disabled">启用着色器子组随机播放操作，确保最大准确性</string>
+    <string name="disable_subgroup_shuffle_disabled">启用着色器子组随机播放，确保最大准确性</string>
     <!-- Settings - Debug -->
     <string name="debug">调试</string>
     <string name="log_level">日志级别</string>
