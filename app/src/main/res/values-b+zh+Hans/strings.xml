@@ -237,7 +237,7 @@
     <string name="rangev3_description">Range v3 是 ISO C++ 20 范围的参考实现，这允许我们在 LLVM 的 libc++ 中开发范围时使用它们</string>
     <string name="frozen_description">Frozen 提供具有完美哈希函数的编译时不可变哈希映射，以加快查找速度</string>
     <string name="pugixml_description">pugixml 用于解析首选项 XML 以从 C++ 检索设置</string>
-    <string name="opus_description">Opus Audio Codec 提供高质量的 Opus 解码器，用于解码客人提供的 Opus 编码音频</string>
+    <string name="opus_description">Opus Audio Codec 提供高质量的 Opus 解码器，用于解码访客提供的 Opus 编码音频</string>
     <string name="mbedtls_description">Mbed TLS 用于解密 AES 加密的 NCA</string>
     <string name="lz4_description">LZ4 用于从 NSO 中提取 LZ4 压缩的 ELF 部分</string>
     <string name="tzcode_description">tzcode 提供了一个 C API 来访问 tzdb 以获取时区数据</string>
