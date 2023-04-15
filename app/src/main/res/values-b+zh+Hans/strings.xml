@@ -26,7 +26,7 @@
     <string name="pause">暂停</string>
     <string name="mute">静音</string>
     <!-- Settings - Content -->
-    <string name="content">内容</string>
+    <string name="content">目录</string>
     <string name="open_data_directory">查看内部目录</string>
     <string name="open_data_directory_summary">在文件管理器中打开 Skyline 的内部目录</string>
     <string name="open_data_directory_failed">找不到外部文件管理器来打开 Skyline 的内部目录</string>
