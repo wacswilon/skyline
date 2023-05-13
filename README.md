@@ -1,5 +1,5 @@
 <p>
-    <h3 align="center">Development on Skyline has been ceased due to the potential legal risks involved</h3>
+    <h3 align="center">Development on Skyline has been ceased</h3>
     <p align="center">All Skyline code is within this repository or <a href="https://github.com/skyline-emu/skyline-dev"><code>skyline-dev</code></a>. Anyone is free to fork the code to continue the work as long as they follow our <a href="LICENSE.md">MPL-2.0 license</a>, it should be noted that Skyline branding isn't licensed.</p>
 </p>
 
